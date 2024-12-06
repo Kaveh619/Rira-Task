@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "K5lvjO9RKwYWFccVDjyIF6jv79AQ5n9oNZYeRdma/Yo=",
+  "Source": "UserGrpcService",
+  "BasePath": "_content/UserGrpcService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
